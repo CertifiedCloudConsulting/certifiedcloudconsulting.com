@@ -1,0 +1,4 @@
+Contact: mailto:info@certifiedcloudconsulting.com
+Expires: 2027-10-01T00:00:00Z
+Preferred-Languages: en
+Canonical: https://certifiedcloudconsulting.com/.well-known/security.txt
